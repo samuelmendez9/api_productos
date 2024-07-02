@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\samuelm\Desktop\APIPRODUCTOS</_PublishTargetUrl>
+    <History>True|2024-01-16T15:18:37.8990654Z;True|2024-01-09T15:40:08.0053558-06:00;True|2023-12-27T10:44:57.3154005-06:00;True|2023-12-27T10:29:18.3917386-06:00;True|2023-12-27T10:29:00.1898214-06:00;True|2023-04-14T10:20:16.2157592-06:00;True|2023-04-13T13:42:58.7851087-06:00;True|2023-04-13T13:42:33.7890214-06:00;True|2023-04-13T11:40:18.4909194-06:00;True|2022-02-18T10:08:12.0407945-06:00;True|2022-02-11T13:05:18.9696398-06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
